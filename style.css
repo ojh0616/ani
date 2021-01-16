@@ -2,18 +2,25 @@ body{
    margin: 0px;
  }
 a{
-   color:black;
-   text-decoration: none;
+   color:CornflowerBlue;
+   font-size: 15px;
+   font-weight: bold;
 }
 h1{
- font-size: 45px;
- text-align: center;
- border-bottom: 1px solid gray;
- margin: 0;
- padding: 20px;
+  font-size: 45px;
+  text-align: center;
+  border-bottom: 1px solid SlateGrey;
+  margin: 0;
+  padding: 20px;
+}
+h4{
+  color: MediumOrchid;
+}
+ul{
+  color: DarkSalmon;
 }
 ol{
- border-right: 1px solid gray;
+ border-right: 1px solid SlateGrey;
  width: 100px;
  margin: 0;
  padding: 20px;
